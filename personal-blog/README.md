@@ -1,7 +1,7 @@
 
   # Responsive Personal Blog Website
 
-  This is a code bundle for Responsive Personal Blog Website. The original project is available at https://www.figma.com/design/Od4VQmRujce5Nzp6uU0RHo/Responsive-Personal-Blog-Website.
+  This is a code bundle for Responsive Personal Blog Website. The original project is available at Figma
 
   ## Running the code
 
