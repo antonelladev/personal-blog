@@ -1,10 +1,10 @@
-# 🌸 Personal Blog Application
+#  Personal Blog Application
 
 Welcome to my personal blog project! This is a modern, responsive, and aesthetically pleasing web application designed to serve as a personal space, digital journal, and portfolio. 
 
 The project was originally designed in Figma, and the interface has been carefully implemented into code using a robust and scalable frontend development architecture.
 
-## 🚀 Technical Stack & Features
+##  Technical Stack & Features
 
 - **Fast Build Tooling:** Powered by **Vite** for an ultra-fast development environment and optimized production builds.
 - **Monorepo Architecture:** Structured using **pnpm workspaces** (`pnpm-workspace.yaml`) for clean dependency management and modular organization.
