@@ -7,9 +7,10 @@ The project was originally designed in Figma, and the interface has been careful
 ##  Technical Stack & Features
 
 - **Fast Build Tooling:** Powered by **Vite** for an ultra-fast development environment and optimized production builds.
+  - **Clean Layout:** A fixed dynamic sidebar featuring profile details, integrated social media links, and custom routing pages (Anime List, Movies, Shows, Wish List, Journal), paired with a fluid main chronological feed for posts.
 - **Monorepo Architecture:** Structured using **pnpm workspaces** (`pnpm-workspace.yaml`) for clean dependency management and modular organization.
 - **Modern Styling:** Integrated with **PostCSS** and a custom theme configuration inspired by modern design systems (`default_shadcn_theme.css`), ensuring a beautiful, desaturated soft-pastel palette.
-- **Clean Layout:** A fixed dynamic sidebar featuring profile details, integrated social media links, and custom routing pages (Anime List, Movies, Shows, Wish List, Journal), paired with a fluid main chronological feed for posts.
+
 
 ## 📂 Project Structure
 
